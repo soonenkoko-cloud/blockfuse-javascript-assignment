@@ -1,0 +1,127 @@
+BLOCKFUSE LABS
+
+JAVASCRIPT ASSIGNMENT REPORT
+
+Name: David Koko
+Course: JavaScript
+Assignment: Student Information and Examination Management System
+Date: 16 November 2026
+
+1. Introduction
+
+This assignment was about creating a simple student information and examination management program using JavaScript.
+
+The main aim was to understand how JavaScript works and how it can be used to store information, check student details, calculate examination scores and assign grades.
+
+I used HTML to create the webpage and JavaScript to carry out the different operations.
+
+2. Tools Used
+
+The tools I used for this assignment were:
+
+- Visual Studio Code for writing and editing my code.
+- HTML for creating the webpage.
+- JavaScript for writing the program.
+- A web browser for running the program.
+- Browser Console for viewing the output and checking errors.
+
+3. Explanation of the Tasks
+
+Task A: Variable Declaration
+
+In this task, I declared variables to store student information such as full name, age, student status, examination score, phone number and department.
+
+I used JavaScript keywords like "let" and "const" to create variables.
+
+Variables are important because they allow a program to store information and use it when needed.
+
+Task B: JavaScript Data Types
+
+JavaScript has different data types that are used to store different kinds of information.
+
+The data types I learned about include:
+
+- String: Used for text, such as a student's name.
+- Number: Used for numerical values, such as age and examination scores.
+- Boolean: Represents true or false.
+- Null: Represents an intentionally empty value.
+- Undefined: Represents a variable that has been declared but has not been given a value.
+
+These data types help JavaScript understand the information being stored.
+
+Task C: Type Conversion
+
+Type conversion means changing a value from one data type to another.
+
+For example, a number stored as text can be converted into a real number using "Number()".
+
+Other conversion methods include "String()" and "Boolean()".
+
+This is useful because it helps the program work with information correctly, especially when performing calculations.
+
+Task D: Student Information Validation and Eligibility
+
+In this task, I used conditional statements to check student information and determine whether a student meets the required conditions.
+
+I used "if", "else if" and "else" statements to make decisions.
+
+The program checks the requirements and accepts eligible students while rejecting students who do not meet them.
+
+Task E: Score Processing and Grading
+
+This task involved calculating the total and average examination scores of a student.
+
+The average score is calculated by dividing the total score by the number of subjects.
+
+The grading system used was:
+
+Average Score| Grade
+80–100| A
+70–79| B
+60–69| C
+50–59| D
+0–49| F
+
+The program also checks that examination scores are not below 0 or above 100.
+
+Task F: Testing the Program
+
+Testing is important because it helps to know whether a program is working correctly.
+
+I tested the program with different student information and examination scores.
+
+The tests helped me check whether the program could accept valid information, reject invalid information, calculate scores and assign the correct grades.
+
+I viewed the results in the browser console.
+
+Task G: Critical Thinking and Program Review
+
+This assignment helped me understand how different JavaScript concepts work together.
+
+I learned that variables store information, data types describe the information, and conditional statements allow a program to make decisions.
+
+I also understood that checking information before processing it helps reduce errors.
+
+Testing the program made it easier to identify problems and confirm that the code was working.
+
+4. Challenges Encountered
+
+While working on the assignment, I experienced a problem when connecting my JavaScript file to my HTML file.
+
+The browser showed a resource-loading error because the JavaScript file was not loading correctly.
+
+I checked the file names and corrected the script connection. After doing that, the program worked successfully.
+
+I also learned how to use the browser console to view my JavaScript output.
+
+5. Conclusion
+
+In conclusion, this assignment improved my understanding of JavaScript and its basic concepts.
+
+I learned how to declare variables, identify data types, convert values, validate student information, calculate examination scores and assign grades.
+
+I also gained practical experience using Visual Studio Code and the browser console.
+
+The assignment helped me understand how JavaScript can be used to solve simple real-life problems through programming.
+
+Submitted by: David Koko
